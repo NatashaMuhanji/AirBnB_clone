@@ -1,6 +1,6 @@
-# CONSOLE
+# AirBnB - The console
 
-# Description of the Projects
+## Description of the Project
 
 This is a command-line console for managing data using the HBNB (HomeBnB) application's models. 
 
@@ -10,14 +10,16 @@ The console operates based on user inputs and responds by interacting with the u
 
 It allows the user to perform various actions on instances, such as ```creating new instances```, ```displaying their details```, ```updating attributes```, and ```deleting instances```. 
 
-# Installation
+## Description of the command interpreter
+
+### Installation
 
 To have access to the console:
 
-```git clone https://github.com/bmariga/AirBnB_clone.git```
+```https://github.com/NatashaMuhanji/AirBnB_clone.git```
 
 
-# How to start the console:
+### How to start the console:
 
 ```$ python3 console.py```
 
@@ -25,7 +27,7 @@ or
 
 ```$ ./console.py```
 
-# Interactive Mode
+### Interactive Mode
 
 ```$ ./console.py```
 
